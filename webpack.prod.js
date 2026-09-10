@@ -2,7 +2,7 @@ const path = require("path");
 const webpack = require("webpack");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
-const BASE_PATH = "/reideng/";
+const BASE_PATH = "/reidengineering-dev/";
 
 module.exports = {
     mode: "production",
